@@ -1,7 +1,7 @@
 👩‍🌾 Inspiration
 COVID led to a resurgence of interest in gardening worldwide, as people grew plants to stay physically and mentally healthy, relieve stress, and quell worries about food shortages or rising food costs.
 
-While gardening can be done in isolation, it often isn't. Gardening offers a way to socialize safely outdoors. In community gardens, growers are part of a community. Some gardeners with access to large spots to garden also grew food for their community.
+While gardening can be done in isolation, it often isn't. Gardening offers a way to socialize safely outdoors. In community gardens, growers are part of a community. Some gardeners with access to large spots to   garden also grew food for their community.
 
 📚 What it does
 How's It Growing is a Wix social platform that connects growers with other growers and provides access to a knowledge center via SMS or a phone call through Twilio.
